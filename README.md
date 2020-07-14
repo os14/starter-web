@@ -11,3 +11,7 @@ bla
 bla
 
 ## How to contribute
+asf
+
+## Copyright
+copyright
