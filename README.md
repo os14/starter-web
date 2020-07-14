@@ -15,4 +15,4 @@ bla
 asfsdgsdg
 
 ## Copyright
-copyright
+copyrightAll right reserved.
